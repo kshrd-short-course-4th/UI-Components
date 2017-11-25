@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="header_name">Singapore</string>
+    <string name="text_desc">Built directly on Spring Boot\'s innovative approach to enterprise Java, Spring Cloud simplifies distributed, microservice-style architecture by implementing proven patterns to bring resilience, reliability, and coordination to your microservices.</string>
+</resources>
